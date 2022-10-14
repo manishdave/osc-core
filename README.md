@@ -21,7 +21,7 @@ mvn clean install
 
 For more details, see [Building and Running OSC](https://github.com/opensecuritycontroller/community/blob/master/development/build_run_osc.md).
 
-## OSC Documentation
+### OSC Documentation
 
 Check out [OSC's Documentation](https://www.opensecuritycontroller.org/documentation/) for more information including getting started with OSC, OSC tutorials, and OSC plugins.
 
