@@ -23,7 +23,7 @@ For more details, see [Building and Running OSC](https://github.com/opensecurity
 
 ### OSC Documentation
 
-Check out [OSC's Documentation](https://www.opensecuritycontroller.org/documentation/) for more information including getting started with OSC, OSC tutorials, and OSC plugins.
+Check out [OSC's Documentation](https://www.opensecuritycontroller.org/documentation/) for additional information including getting started with OSC, OSC tutorials, and OSC plugins.
 
 
 ## Contributing to OSC
